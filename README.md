@@ -11,7 +11,7 @@ If you have any issues or requests for any of my projects, open an issue or PR! 
 
 <h2 align="center">Stats</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RobotLeopard86&column=-1" alt="rl86" /></a> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobotLeopard86&show_icons=true&locale=en" alt="rl86" width="450" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasGust&" alt="thomasgust" width="450" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobotLeopard86&show_icons=true&locale=en" alt="rl86" width="450" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobotLeopard86" alt="rl86" width="450" /></p>
 <hr />
 
 <h2 align="center">Languages</h2>
