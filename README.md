@@ -9,11 +9,6 @@ I use [Vue.js](https://vuejs.org) and [Svelte](https://svelte.dev) for my fronte
 
 If you have any issues or requests for any of my projects, open an issue or PR! I'll do my best to respond as quickly as possible.
 
-<h2 align="center">Stats</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-roan.vercel.app/?username=RobotLeopard86&theme=darkhub)" alt="rl86" /></a> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobotLeopard86&show_icons=true&locale=en" alt="rl86" width="450" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobotLeopard86" alt="rl86" width="450" /></p>
-<hr />
-
 <h2 align="center">Languages</h2>
 <p align="center"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="100" />
