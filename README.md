@@ -1,5 +1,5 @@
-<h1 align="center">Hello!</h1>
-<h3 align="center">I'm RobotLeopard86. I'm mainly interested in 3D graphics, game engines, robotics, Minecraft modding, and developer tools. I also occasionally do some frontend work.</h3>
+<h1 align="center">Hey, I'm Owen!</h1>
+<h3 align="center">I'm mainly interested in 3D graphics, game engines, robotics, Minecraft modding, and developer tools. I also occasionally do some frontend work.</h3>
 
 Pronouns: he/him  
 
