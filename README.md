@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Owen!</h1>
-<h3 align="center">I'm mainly interested in 3D graphics, game engines, robotics, Minecraft modding, and developer tools. I also occasionally do some frontend work.</h3>
+<h1 align="center">Hey there, I'm Owen!</h1>
+<h3 align="center">I'm mainly interested in 3D graphics, game engines, robotics, and systems programming. I also occasionally do some frontend work and Minecraft modding.</h3>
 
 Pronouns: he/him  
 
