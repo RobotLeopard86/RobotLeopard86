@@ -11,13 +11,11 @@ If you have any issues or requests for any of my projects, open an issue or PR! 
 
 <h2 align="center">Languages</h2>
 <p align="center"> 
-  <img src="lang_logos/cpp.png" width="100" />
+  <img src="lang_logos/cpp.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lang_logos/java.png" width="100" />
+  <img src="lang_logos/java.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lang_logos/typescript.png" width="100" />
+  <img src="lang_logos/typescript.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lang_logos/csharp.png" width="100" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lang_logos/python.png" width="100" />
+  <img src="lang_logos/csharp.png" width="125" />
 </p>
