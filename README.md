@@ -10,7 +10,7 @@ I use [Vue.js](https://vuejs.org) and [Svelte](https://svelte.dev) for my fronte
 If you have any issues or requests for any of my projects, open an issue or PR! I'll do my best to respond as quickly as possible.  
 
 **GPG Fingerprint**: 0987 E6C0 2E97 7A7F BC26  98DD FC53 9F1A 8C05 9658.  
-Please note, I only started using a signing key recently, so older stuff from me (pre-February 2026) will be unsigned.
+Please note, I only started using a signing key recently (February 2026). Older commits, tags, and the like will remain **unsigned**.
 
 <h2 align="center">Languages</h2>
 <p align="center"> 
