@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Owen!</h1>
-<h3 align="center">I'm mainly interested in 3D graphics, game engines, systems programming, and robotics. I also occasionally do some frontend work and Minecraft modding.</h3>
+<h3 align="center">I'm mainly interested in 3D graphics, game engines, systems programming, and robotics.</h3>
 
 Pronouns: he/him  
 
 Currently working on: [Cacao Engine](https://github.com/RobotLeopard86/CacaoEngine), a 3D game engine written in C++.  
 
-I use [Vue.js](https://vuejs.org) and [Svelte](https://svelte.dev) for my frontend projects.
+I use [Svelte](https://svelte.dev) and [Vue.js](https://vuejs.org) for my occasional frontend projects.
 
 If you have any issues or requests for any of my projects, open an issue or PR! I'll do my best to respond as quickly as possible.  
 
@@ -14,11 +14,29 @@ Please note, I only started using a signing key recently (February 2026). Older 
 
 <h2 align="center">Languages</h2>
 <p align="center"> 
-  <img src="lang_logos/cpp.png" width="125" />
+  <img src="logos/cpp.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lang_logos/java.png" width="125" />
+  <img src="logos/java.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lang_logos/typescript.png" width="125" />
+  <img src="logos/typescript.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="lang_logos/csharp.png" width="125" />
+  <img src="logos/csharp.png" width="125" />
+</p>
+
+<br />
+
+<h2 align="center">Frameworks & Tools</h2>
+<p align="center"> 
+  <img src="logos/gl.png" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logos/vk.png" width="325" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logos/git.png" width="225" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logos/unity.png" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logos/svelte.png" width="125" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logos/fedora.png" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
