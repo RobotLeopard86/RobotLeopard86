@@ -16,11 +16,11 @@ Please note, I only started using a signing key recently (February 2026). Older 
 <p align="center"> 
   <img src="logos/cpp.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logos/csharp.png" width="125" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="logos/java.png" width="125" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="logos/typescript.png" width="125" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="logos/csharp.png" width="125" />
 </p>
 
 <br />
