@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Owen!</h1>
-<h3 align="center">I'm mainly interested in 3D graphics, game engines, systems programming, and robotics.</h3>
+<h3 align="center">I'm mainly interested in systems programming, game engines, 3D graphics, and robotics.</h3>
 
 Pronouns: he/him  
 
