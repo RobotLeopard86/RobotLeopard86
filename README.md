@@ -3,7 +3,7 @@
 
 Pronouns: he/him  
 
-I'm a 10th-grade student at Seattle Academy.
+I'm a current 11th-grade student at Seattle Academy.
 
 Currently, I'm working on [Cacao Engine](https://github.com/RobotLeopard86/CacaoEngine), a 3D game engine written in C++.  
 
