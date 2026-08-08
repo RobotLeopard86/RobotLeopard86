@@ -14,7 +14,7 @@ If you have any issues or requests for any of my projects, open an issue or PR! 
 Please do not try to contact me by email or phone; I do not advertise my personal information and will not reply.
 
 **GPG Fingerprint**: 0987 E6C0 2E97 7A7F BC26  98DD FC53 9F1A 8C05 9658.  
-Please note, I only started using a signing key recently (February 2026). Older commits, tags, and the like will remain **unsigned**.
+Please note, I started using a signing key in February 2026. Commits, tags, and the like from before then will remain **unsigned**.
 
 <h2 align="center">Languages</h2>
 <p align="center"> 
