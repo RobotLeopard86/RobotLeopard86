@@ -7,11 +7,11 @@ I'm a current 11th-grade student at Seattle Academy.
 
 Currently, I'm working on [Cacao Engine](https://github.com/RobotLeopard86/CacaoEngine), a 3D game engine written in C++.  
 
-I use [Svelte](https://svelte.dev) and [Vue.js](https://vuejs.org) for my occasional frontend projects.
+I'm also the creator of [Neural Nonsense](https://www.neuralnonsense.net), a social party game inspired by _Quiplash_ where you try to out-funny your friends and AI.
+
+I use [Svelte](https://svelte.dev) for my occasional frontend projects.
 
 If you have any issues or requests for any of my projects, open an issue or PR! I'll do my best to respond as quickly as possible. 
-
-Please do not try to contact me by email or phone; I do not advertise my personal information and will not reply.
 
 **GPG Fingerprint**: 0987 E6C0 2E97 7A7F BC26  98DD FC53 9F1A 8C05 9658.  
 Please note, I started using a signing key in February 2026. Commits, tags, and the like from before then will remain **unsigned**.
